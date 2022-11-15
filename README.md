@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![fondo-panal-amarillo3](https://user-images.githubusercontent.com/99199970/201817085-847397de-f1b2-4be0-973e-aa9442c322d9.png)
+![fondo-panal-amarillo31](https://user-images.githubusercontent.com/99199970/201817686-d45a516d-cb8b-42d8-8b7a-825952c7b712.png)
 
 # 👉 About me!
 
