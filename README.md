@@ -12,9 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![fondo-panal-amarillo2754781](https://user-images.githubusercontent.com/99199970/201411320-80406629-174f-4422-8061-ac9718c70cc3.png)
+![fondo-panal-amarillo3](https://user-images.githubusercontent.com/99199970/201817085-847397de-f1b2-4be0-973e-aa9442c322d9.png)
 
-# 👉 About me
+# 👉 About me!
 
 I am pentester and cybersecurity consultant passionate about hacking. I am certified in CEHv12 (Certified Ethical Hacker) EC-Council. I am proactive in learning and I am always trying new techniques and expanding my knowledge.
 
@@ -28,7 +28,7 @@ I am pentester and cybersecurity consultant passionate about hacking. I am certi
 
 📌 Another of my projects is a Useful Hacks repository where I share useful commands for hacking and pentesting that serve as a quick cheatSheet.
 
-# 👺 Experience with tools & technologies
+# 👺 Experience
 
 ⚔️ __I hack your stuff so you have better security__
 I am passionate about Hacking and Offensive Security, proactive in learning and working, I constantly update myself and I have the initiative to find new perspectives and solutions.
@@ -46,7 +46,7 @@ Among my skills are:
 🛡 Oral and written English. Preparation of reports in English.
 
 
-Tools and technologies:
+# 🏹 Tools & technologies:
 
 🛡 Vulnerability scanning with professional tools (DAST): Nessus (Pro and Tenable Cloud for PCI DSS ASV Compliance), Acunetix, Burp Suite Pro, etc. Experience with debugging false positives and handling scanner paranoia levels.
 
