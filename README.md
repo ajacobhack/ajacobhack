@@ -25,6 +25,7 @@ I am pentester and cybersecurity consultant passionate about hacking. I am certi
 [https://hackingpulse.tech](https://hackingpulse.tech)
 
 - [How to get started in hacking and cybersecurity (ES)](https://hackingpulse.tech/como-comenzar-en-el-hacking-y-ciberseguridad/)
+- [RedPanda – HackTheBox Writeup](https://hackingpulse.tech/redpanda-hackthebox-writeup/)
 
 📌 Another of my projects is a Useful Hacks repository where I share useful commands for hacking and pentesting that serve as a quick cheatSheet.
 
