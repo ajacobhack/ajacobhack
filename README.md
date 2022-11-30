@@ -34,6 +34,7 @@ I am pentester and cybersecurity consultant passionate about hacking. I am certi
 ⚔️ __I hack your stuff so you have better security__
 I am passionate about Hacking and Offensive Security, proactive in learning and working, I constantly update myself and I have the initiative to find new perspectives and solutions.
 Among my skills are:
+
 🛡 Pentesting of external and internal infrastructure.
 
 🛡 Web Application Pentesting
