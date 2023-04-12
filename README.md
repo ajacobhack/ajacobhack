@@ -22,7 +22,13 @@ I am pentester and cybersecurity consultant passionate about hacking. I am certi
 
 # 🚀 Projects
 
-📌 I have launched a website to share articles on hacking techniques, guidance to get started in the field and interesting things on CyberSec.
+📌 Medium posts - My actual blog for hacking posts.
+
+[https://medium.com/@arielhacking](https://medium.com/@arielhacking)
+
+- Introduction API Pentesting: importance for companies and pentesters https://medium.com/@arielhacking/introducci%C3%B3n-a-api-pentesting-importancia-para-empresas-y-pentesters-d0a90ce0d835
+
+📌 My website to share some articles on hacking techniques, guidance to get started in the field and interesting things on CyberSec. (replaced for Medium Blog)
 
 [https://hackingpulse.tech](https://hackingpulse.tech)
 
