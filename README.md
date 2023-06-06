@@ -23,7 +23,7 @@ I am pentester and cybersecurity consultant passionate about hacking. I am certi
 # 🚀 Projects
 
 📌 Tools - Scripts:
-  - rogue-https-server.py: https server with python 3.10/3.11 for incoming TLS encrypted communications, with DNS and auto generating pem features, for check vulnerabilities like: External Service Interaction (DNS, HTTP), blind SSRF, REC PHP, XSS Stored with cookies exfiltration, Out-of-band SQL injection (OOB SQLi), Server Security Miscofiguration, among others.
+  - rogue-https-server.py: https server with python 3.10/3.11 for incoming TLS encrypted communications and checks of Out-of-bands attacks. Amoong features: free DNS and auto generating pem. Checks vulnerabilities like: External Service Interaction (DNS, HTTP), blind SSRF, REC PHP, XSS Stored with cookies exfiltration, Out-of-band SQL injection (OOB SQLi), Server Security Miscofiguration, among others.
   - awsbugseeker: script for testing on AWS cloud apps.
   - lootXploits: bash script for find exploits for exposed services.
 
