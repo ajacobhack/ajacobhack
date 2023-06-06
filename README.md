@@ -22,11 +22,18 @@ I am pentester and cybersecurity consultant passionate about hacking. I am certi
 
 # 🚀 Projects
 
+📌 Tools - Scripts:
+  - rogue-https-server.py: https server with python 3.10/3.11 for incoming TLS encrypted communications, with DNS and auto generating pem features, for check vulnerabilities like: External Service Interaction (DNS, HTTP), blind SSRF, REC PHP, XSS Stored with cookies exfiltration, Out-of-band SQL injection (OOB SQLi), Server Security Miscofiguration, among others.
+  - awsbugseeker: script for testing on AWS cloud apps.
+  - lootXploits: bash script for find exploits for exposed services.
+
 📌 Medium posts - My actual blog for hacking posts.
 
 [https://medium.com/@arielhacking](https://medium.com/@arielhacking)
 
-- Introduction API Pentesting: importance for companies and pentesters https://medium.com/@arielhacking/introducci%C3%B3n-a-api-pentesting-importancia-para-empresas-y-pentesters-d0a90ce0d835
+- Introduction API Pentesting: importance for companies and pentesters. Link: https://medium.com/@arielhacking/introducci%C3%B3n-a-api-pentesting-importancia-para-empresas-y-pentesters-d0a90ce0d835
+
+- Is your antivirus really secure? Testing Powershell payload obfuscated with Chimera. Link: https://medium.com/@arielhacking/is-your-antivirus-really-secure-testing-powershell-payload-obfuscated-with-chimera-7f91d8f4c5fe
 
 📌 My website to share some articles on hacking techniques, guidance to get started in the field and interesting things on CyberSec. (replaced for Medium Blog)
 
@@ -87,17 +94,3 @@ Clear oral and written communication.
 Adaptability, proactive learning.
 
 Integrity: sincerity, morality, personal values, honesty.
-
-Positive attitude: optimistic, enthusiastic, confident.
-
-Good looks and composure.
-
-Courtesy.
-
-Interpersonal: friendly, humorous, empathic, self-control.
-
-Responsibility: I finish the job and I want to do it well, self-discipline and common sense.
-
-Teamwork: I cooperate and help others.
-
-Attitude towards work: initiative, dedication, motivation.
