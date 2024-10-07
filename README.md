@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 # 👉 About me!
 
-I am pentester and cybersecurity consultant passionate about hacking. I am certified in CEHv12 (Certified Ethical Hacker) EC-Council. I am proactive in learning and I am always trying new techniques and expanding my knowledge.
+I am pentester and cybersecurity consultant passionate about hacking and offensive security. I am certified in CEHv12 (Certified Ethical Hacker) EC-Council. I am proactive in learning and I am always trying new techniques and expanding my knowledge.
 
 # 🚀 Projects
 
@@ -58,9 +58,15 @@ Among my skills are:
 
 🛡 Pentesting Mobile Apps
 
-🛡 OSINT Recognition
+🛡 OSINT
 
 🛡 Oral and written English. Preparation of reports in English.
+
+🛡 Threat Modeling
+
+🛡 S-SDLC: Threat Modeling, secure code cheatsheets, Vulnerability management and supporting developers in remediating vulnerabilities, end-to-end project management.
+
+🛡 Education: cybersecurity for devs
 
 
 # 🏹 Tools & technologies:
