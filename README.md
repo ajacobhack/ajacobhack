@@ -35,13 +35,6 @@ I am pentester and cybersecurity consultant passionate about hacking and offensi
 
 - Is your antivirus really secure? Testing Powershell payload obfuscated with Chimera. Link: https://medium.com/@arielhacking/is-your-antivirus-really-secure-testing-powershell-payload-obfuscated-with-chimera-7f91d8f4c5fe
 
-📌 My website to share some articles on hacking techniques, guidance to get started in the field and interesting things on CyberSec. (replaced for Medium Blog)
-
-[https://hackingpulse.tech](https://hackingpulse.tech)
-
-- [How to get started in hacking and cybersecurity (ES)](https://hackingpulse.tech/como-comenzar-en-el-hacking-y-ciberseguridad/)
-- [RedPanda – HackTheBox Writeup](https://hackingpulse.tech/redpanda-hackthebox-writeup/)
-
 📌 Another of my projects is a Useful Hacks repository where I share useful commands for hacking and pentesting that serve as a quick cheatSheet.
 
 # 👺 Experience
