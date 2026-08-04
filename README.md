@@ -12,7 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![ariel-jacob-banner-linkedin-hacker1](https://user-images.githubusercontent.com/99199970/231000059-ece1feb0-9479-4dfb-8822-ef15d66c4ccf.png)
+<!--![ariel-jacob-banner-linkedin-hacker1](https://user-images.githubusercontent.com/99199970/231000059-ece1feb0-9479-4dfb-8822-ef15d66c4ccf.png)-->
+
+<img width="1774" height="887" alt="banner-Github-ArielJacob2026" src="https://github.com/user-attachments/assets/d1db9562-b6bf-453b-bf70-181d66e2409d" />
 
 <!--![fondo-panal-amarillo31](https://user-images.githubusercontent.com/99199970/201817686-d45a516d-cb8b-42d8-8b7a-825952c7b712.png)-->
 
