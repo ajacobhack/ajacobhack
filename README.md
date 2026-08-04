@@ -16,80 +16,225 @@ Here are some ideas to get you started:
 
 <!--![fondo-panal-amarillo31](https://user-images.githubusercontent.com/99199970/201817686-d45a516d-cb8b-42d8-8b7a-825952c7b712.png)-->
 
-# 👉 About me!
+<!-- Keep your current banner image here -->
 
-I am pentester and cybersecurity consultant passionate about hacking and offensive security. I am certified in CEHv12 (Certified Ethical Hacker) EC-Council. I am proactive in learning and I am always trying new techniques and expanding my knowledge.
+# Hi, I'm Ariel 👋
 
-# 🚀 Projects
+### Offensive Security · Application Security · Product Security · API Security
 
-📌 Tools - Scripts:
-  - rogue-https-server.py: https server with python 3.10/3.11 for incoming TLS encrypted communications and checks of Out-of-bands attacks. Amoong features: free DNS and auto generating pem. Checks vulnerabilities like: External Service Interaction (DNS, HTTP), blind SSRF, REC PHP, XSS Stored with cookies exfiltration, Out-of-band SQL injection (OOB SQLi), Server Security Miscofiguration, among others.
-  - awsbugseeker: script for testing on AWS cloud apps.
-  - lootXploits: bash script for find exploits for exposed services.
+I am an Offensive Security and Application Security specialist with experience securing high-impact fintech products and services.
 
-📌 Medium posts - My actual blog for hacking posts.
+My work combines hands-on security testing, secure software development practices, threat modeling, vulnerability management, and collaboration with engineering teams. I also build automation and AI-assisted security workflows while keeping human judgment and validation at the center of the process.
 
-[https://medium.com/@arielhacking](https://medium.com/@arielhacking)
+I am especially interested in:
 
-- Introduction API Pentesting: importance for companies and pentesters. Link: https://medium.com/@arielhacking/introducci%C3%B3n-a-api-pentesting-importancia-para-empresas-y-pentesters-d0a90ce0d835
+* Web and API security
+* Offensive Security and adversarial testing
+* Product Security and Secure SDLC
+* Security automation and tooling
+* AI-assisted pentesting
+* Fintech and cloud-native environments
 
-- Is your antivirus really secure? Testing Powershell payload obfuscated with Chimera. Link: https://medium.com/@arielhacking/is-your-antivirus-really-secure-testing-powershell-payload-obfuscated-with-chimera-7f91d8f4c5fe
+Currently open to remote opportunities in Offensive Security, Product Security, Application Security, and API Security.
 
-📌 Another of my projects is a Useful Hacks repository where I share useful commands for hacking and pentesting that serve as a quick cheatSheet.
+---
 
-# 👺 Experience
+## 🛡️ What I do
 
-⚔️ __I hack your stuff so you have better security__
-I am passionate about Hacking and Offensive Security, proactive in learning and working, I constantly update myself and I have the initiative to find new perspectives and solutions.
-Among my skills are:
+* Web application and API pentesting
+* Mobile application security testing
+* External and internal infrastructure assessments
+* Threat modeling and architecture reviews
+* Business logic and authorization testing
+* Vulnerability triage, validation, and risk assessment
+* Secure SDLC and Product Security initiatives
+* Developer support during vulnerability remediation
+* Security education and enablement for engineering teams
+* DAST orchestration and false-positive analysis
+* Security tooling, scripting, and workflow automation
+* AI-assisted analysis with human-in-the-loop validation
+* Technical reporting for engineering and executive audiences
 
-🛡 Pentesting of external and internal infrastructure.
+I have worked on security assessments involving authentication, authorization, financial operations, asynchronous architectures, race conditions, idempotency, APIs, back-office applications, and distributed systems.
 
-🛡 Web Application Pentesting
+---
 
-🛡 Pentesting APIs
+## 🚀 Featured projects
 
-🛡 Pentesting Mobile Apps
+### ⚔️ ColdSteel
 
-🛡 OSINT
+An AI-assisted Offensive Security tool focused on API pentesting and OpenAPI analysis.
 
-🛡 Oral and written English. Preparation of reports in English.
+The project is being designed to help security professionals analyze API specifications, build deterministic endpoint inventories, identify security-relevant characteristics, and support testing workflows without replacing human judgment.
 
-🛡 Threat Modeling
+Current capabilities include:
 
-🛡 S-SDLC: Threat Modeling, secure code cheatsheets, Vulnerability management and supporting developers in remediating vulnerabilities, end-to-end project management.
+* OpenAPI 3.0 and 3.1 validation
+* Internal `$ref` resolution
+* Endpoint and operation inventory
+* Authentication and security-scheme analysis
+* Deterministic parsing and classification
+* Structured warnings and validation results
+* Automated tests and strict code-quality checks
 
-🛡 Education: cybersecurity for devs
+**Technologies:** Python 3.12+, Typer, Pydantic, PyYAML, pytest, Ruff and mypy.
 
+> ColdSteel is under active development.
 
-# 🏹 Tools & technologies:
+### 🔐 rogue-https-server.py
 
-🛡 Vulnerability scanning with professional tools (DAST): Nessus (Pro and Tenable Cloud for PCI DSS ASV Compliance), Acunetix, Burp Suite Pro, etc. Experience with debugging false positives and handling scanner paranoia levels.
+A lightweight HTTPS server for receiving encrypted callbacks during authorized Out-of-Band security testing.
 
-🛡 Experience with Linux and Windows environments. Using Kali and Parrot for pentesting.
+It can support testing scenarios involving:
 
-🛡 Experience with intrusion pentesting tools: NMAP, SQLMap, Metasploit framework, Burp Suite (Proxy, repeater, intruder; cookie tests); detection of privilege escalation vectors with automated tools and manually;
+* External service interaction
+* Blind SSRF
+* Out-of-Band SQL injection
+* Stored XSS callback validation
+* Cookie exfiltration in controlled environments
+* Remote code execution callbacks
+* Server-side misconfigurations
 
-🛡 API hacking with Postman, Burp, Kiterunner;
+It also includes TLS certificate generation and DNS-related utilities.
 
-🛡 Mobile Apps: Genymotion/AndroidStudio; static and dynamic tests with MobSF, ADB, APKTool, Frida, Drozer.
+### ☁️ awsbugseeker
 
-🛡 DoS with httpslowtest and hping3;
+Security-testing experiments and automation for assessing authorized AWS environments and cloud applications.
 
-🛡 Footprinting with search engines (google dorks, Bing, etc), automated tools (theHarvester, Dig, WHOIS, AMASS), devices, technologies and geolocation (Netcraft, Shodan, Builtwith), social networks, email and metadata collection .
+### 🧰 lootXploits
 
-🛡 Knowledge of exploits, vulnerability ratings by CVE and CWE, and risk level by CVSS.
+A Bash utility for locating publicly available exploit references associated with exposed services and software versions.
 
-🛡 Frameworks/methodologies: OSSTMM, OWASP, MITER ATT&CK, EC-Council, Cyber ​​Kill Chain.
+### 📚 Useful Hacks
 
-🛡 Knowledge of networks and communications: TCP/IP, UDP, ARP, DNS and DHCP. OSI model. Cryptography: secure and insecure encryption types; SSL and TLS protocols.
+A practical collection of commands, techniques, and quick references for pentesting, troubleshooting, and security research.
 
-🛡 Knowledge of programming languages: Bash, Python, Javascript, PHP.
+---
 
-# 👽 Social Skills:
+## 🧑‍💻 Professional background
 
-Clear oral and written communication.
+My experience includes Offensive Security, Application Security, and Product Security work in fintech environments.
 
-Adaptability, proactive learning.
+I have participated in end-to-end security processes involving:
 
-Integrity: sincerity, morality, personal values, honesty.
+* Scoping and planning security assessments
+* Manual and automated security testing
+* Threat modeling
+* Vulnerability validation and prioritization
+* Technical reporting
+* Remediation support
+* Retesting
+* Security requirements
+* Secure development guidance
+* Cross-functional collaboration with developers, architects, infrastructure teams, and security leadership
+
+I am certified as a **CEH v12 — Certified Ethical Hacker by EC-Council** and continuously train in advanced web, API, infrastructure, Windows, Active Directory, cloud, and black-box security testing.
+
+---
+
+## 🏹 Technologies and tools
+
+### Web and API Security
+
+* Burp Suite Professional
+* Postman
+* Kiterunner
+* SQLMap
+* OWASP ZAP
+* OpenAPI and Swagger
+* Custom Python and Bash tooling
+
+### Infrastructure and Offensive Security
+
+* Nmap
+* Metasploit Framework
+* Nessus and Tenable
+* Acunetix
+* Kali Linux
+* Parrot Security OS
+* Linux and Windows environments
+* Enumeration and privilege-escalation techniques
+
+### Mobile Application Security
+
+* MobSF
+* Frida
+* ADB
+* APKTool
+* Genymotion
+* Android Studio
+* Static and dynamic analysis
+
+### OSINT and reconnaissance
+
+* Search-engine operators and dorks
+* Shodan
+* Amass
+* theHarvester
+* WHOIS and DNS analysis
+* Netcraft
+* BuiltWith
+* Metadata and exposed-asset analysis
+
+### Engineering and automation
+
+* Python
+* Bash
+* JavaScript
+* PHP
+* Git
+* Pytest
+* Pydantic
+* Typer
+* Ruff
+* mypy
+* AI-assisted security and software-engineering workflows
+
+---
+
+## 📐 Methodologies and standards
+
+* OWASP Web Security Testing Guide
+* OWASP Application Security Verification Standard
+* OWASP API Security Top 10
+* OWASP Mobile Application Security
+* CWE
+* CVE
+* CVSS
+* MITRE ATT&CK
+* Cyber Kill Chain
+* OSSTMM
+* Secure Software Development Lifecycle
+* Threat modeling methodologies
+
+---
+
+## ✍️ Security writing
+
+I publish articles about hacking, pentesting, and cybersecurity on Medium:
+
+### [Ariel Hacking on Medium](https://medium.com/@arielhacking)
+
+Selected articles:
+
+* [Introducción a API Pentesting: importancia para empresas y pentesters](https://medium.com/@arielhacking/introducci%C3%B3n-a-api-pentesting-importancia-para-empresas-y-pentesters-d0a90ce0d835)
+* [Is your antivirus really secure? Testing a PowerShell payload obfuscated with Chimera](https://medium.com/@arielhacking/is-your-antivirus-really-secure-testing-powershell-payload-obfuscated-with-chimera-7f91d8f4c5fe)
+
+---
+
+## 👽 How I work
+
+I value:
+
+* Clear and honest communication
+* Technical curiosity
+* Critical thinking
+* Responsible disclosure
+* Continuous learning
+* Collaboration with engineering teams
+* Evidence-based security decisions
+* Automation without losing human judgment
+* Integrity and professional ethics
+
+> I hack systems so organizations can understand their real exposure and build more secure products.
+
